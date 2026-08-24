@@ -11,7 +11,7 @@ Import the numpy module to use the built-in functions for calculation
 Prepare the lists from each linear equations and assign in np.array()
 ### Step 3: 
 Using np.linalg.inv(),we can find the inverse of a matrix
-### Step 4: 
+### Step 4: mbkn
 End the program
 
 ## Program:
